@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/db_musics/config.py
+/db_musics/images/
+/musicAPI/musicAPI/settings.py
+/NodataScraper/NodataScraper/settings.py
+/db_musics/.idea/
+/musicAPI/.idea/
+/NodataDash/.idea/
+/NodataScraper/.idea/
+
+
